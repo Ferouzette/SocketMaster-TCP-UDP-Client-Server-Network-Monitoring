@@ -1,9 +1,7 @@
 # Monitoring Réseau Client-Serveur — Mini-Projet RT2 2025/2026 
 
 ## Auteurs
-**Hamdi Mohamed Aziz**
-
-**Maddouri Ferdaous**   
+**Hamdi Mohamed Aziz** & **Maddouri Ferdaous**   
 Encadrant : **Dr. Kamel Karoui**
 
 ---
