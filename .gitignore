@@ -5,4 +5,5 @@ __pycache__/
 *.log
 *.toc
 *.out
-stats*.csv"rapports/demo.mp4" 
+stats*.csv
+"rapports/demo.mp4" 
